@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-oil-capital-deck-solutions.dream-surge.com/sitemap-index.xml
